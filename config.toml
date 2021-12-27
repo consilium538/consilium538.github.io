@@ -5,6 +5,17 @@ compile_sass = true
 highlight_code = true
 
 theme = "after-dark"
-generate_categories_pages = true
-generate_tags_pages = true
-generate_rss = true
+feed_filename = "rss.xml"
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+[extra]
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+author = "consilium538@github.com"
