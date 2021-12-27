@@ -1,0 +1,10 @@
+base_url = "consilium538.github.io"
+
+compile_sass = true
+
+highlight_code = true
+
+theme = "after-dark"
+generate_categories_pages = true
+generate_tags_pages = true
+generate_rss = true
