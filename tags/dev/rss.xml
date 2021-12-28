@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title> - Dev</title>
+        <link>https://consilium538.github.io</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://consilium538.github.io/tags/dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Init zola page</title>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+            <link>https://consilium538.github.io/0001-init-zola-page/</link>
+            <guid>https://consilium538.github.io/0001-init-zola-page/</guid>
+            <description>&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;getzola&#x2F;zola&quot;&gt;zola&lt;&#x2F;a&gt;를 사용한, 정확하게는 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;shalzz&#x2F;zola-deploy-action&quot;&gt;zola-deploy-action&lt;&#x2F;a&gt;을 이용하여 blog setup을 진행&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

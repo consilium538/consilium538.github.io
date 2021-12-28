@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://consilium538.github.io/sitemap.xml
